@@ -1,2 +1,2 @@
-first line for the master branch
+first line for the master branch small change
 first line for firstbranch
